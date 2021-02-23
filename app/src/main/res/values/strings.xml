@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SafeTrekking</string>
+    <string name="page_title_home">New hike</string>
 </resources>
