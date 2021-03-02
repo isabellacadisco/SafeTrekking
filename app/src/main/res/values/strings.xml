@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">SafeTrekking</string>
     <string name="page_title_home">New hike</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoiaXNhYmVsbGFjYWRpc2NvIiwiYSI6ImNrMzZqaXNibTAyN20zb21yN3RmMmV4bngifQ.dj2r34d7xd1zGMVJzeJlEA</string>
+    <string name="user_location_permission_explanation">dammi i permessi location</string>
+    <string name="user_location_permission_not_granted">non andrà nulla perchè non haid ato i permessi</string>
+
 </resources>

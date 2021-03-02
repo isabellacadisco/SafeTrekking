@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newHike"
+        android:title="New Hike"
+        android:icon="@drawable/ic_newhike" />
+
+    <item
+        android:id="@+id/freeHike"
+        android:title="Free Hike"
+        android:icon="@drawable/ic_freehike" />
+
+    <item
+        android:id="@+id/myHikes"
+        android:title="My Hikes"
+        android:icon="@drawable/ic_myhikes" />
+
+    <item
+        android:id="@+id/account"
+        android:title="My Account"
+        android:icon="@drawable/ic_account" />
+
+</menu>

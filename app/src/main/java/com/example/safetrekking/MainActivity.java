@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         RequestQueue queue = Volley.newRequestQueue(this);
 
         //url del server
-        String url = "http://159.149.186.75:3000/enterApp";
+        String url = "http://192.168.1.14:3000/enterApp";
 
         //creo il body json da mandare
         JSONObject jsonBody = new JSONObject();
